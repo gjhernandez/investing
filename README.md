@@ -39,6 +39,11 @@
     - Alerts management for coins and tokens 
   - Coin360.com: https://coin360.com/
     - Coins and Tokens Heatmap 
+  - Coin Glass https://www.coinglass.com/pro/
+    - Exchange Balance
+    - Pi cycle indicator
+    - and many others indicators
+  - Fear and greed index https://alternative.me/crypto/fear-and-greed-index/
 
 ### Multiple Asset Types (Stocks, ETFs, Index Funds, Crypto, etc)
   - Delta App: https://delta.app
