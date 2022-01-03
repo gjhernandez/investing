@@ -44,6 +44,7 @@
     - Pi cycle indicator
     - and many others indicators
   - Fear and greed index https://alternative.me/crypto/fear-and-greed-index/
+  - Leverage graph https://cryptoquant.com/overview/btc-market-indicator
 
 ### Multiple Asset Types (Stocks, ETFs, Index Funds, Crypto, etc)
   - Delta App: https://delta.app
